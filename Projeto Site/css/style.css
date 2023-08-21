@@ -2,9 +2,18 @@ h1{
     color:red;
     text-align:center;
 }
-div{
+.div1{
     margin:auto;
     width: 400px;
     padding: 10px;
-    border: solid red 5px;
+    border: solid royalblue 5px;
+    background-color: blueviolet;
+}
+
+.div2{
+    margin:auto;
+    width: 400px;
+    padding: 10px;
+    border: solid cyan 5px;
+    background-color: violet;
 }
