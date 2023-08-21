@@ -1,0 +1,10 @@
+h1{
+    color:red;
+    text-align:center;
+}
+div{
+    margin:auto;
+    width: 400px;
+    padding: 10px;
+    border: solid red 5px;
+}
