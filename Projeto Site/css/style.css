@@ -1,3 +1,9 @@
+body{
+    margin: auto;
+    scroll-behavior: smooth;
+    background-color: springgreen;
+}
+
 h1{
     color:red;
     text-align:center;
@@ -16,4 +22,10 @@ h1{
     padding: 10px;
     border: solid cyan 5px;
     background-color: violet;
+}
+
+button{
+    background-color:snow;
+    border: none;
+    color:crimson;
 }
